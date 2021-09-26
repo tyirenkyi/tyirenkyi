@@ -1,6 +1,6 @@
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)](https://github.com/guilyx/guilyx/actions)
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/guilyx/guilyx/actions)
-![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
+[![Actions Status](https://github.com/tyirenkyi/tyirenkyi/workflows/wakatime-stats/badge.svg)](https://github.com/tyirenkyi/tyirenkyi/actions)
+[![Actions Status](https://github.com/tyirenkyi/tyirenkyi/workflows/update-gh-activity/badge.svg)](https://github.com/tyirenkyi/tyirenkyi/actions)
+![](https://visitor-badge.glitch.me/badge?page_id=tyirenkyi.tyirenkyi)
 
 <p align="center">
 <br/>
