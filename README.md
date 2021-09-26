@@ -22,7 +22,7 @@ job: Frontend Developer (Freelance)
 
 technical_interests: ["Blockchains", "Frontend Development", "WEB 3", 
                       "Mobile Development"]
-currently_learning: ["Rust", "Solana Developmen"]
+currently_learning: ["Rust", "Solana Development"]
 hobbies: ["Anime", "Cinema", "Sci fi novels"]
 
 relocation_interests: ["Japan", "Singapore", "Germany", "South Korea", "UK"]
@@ -91,7 +91,7 @@ Sunday       104 commits    ██░░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Europe/Paris
+⌚︎ Time Zone: Greenwich Mean Time(GMT+0)
 
 💬 Programming Languages: 
 Python                   3 hrs 29 mins       █████████████░░░░░░░░░░░░   53.55% 
