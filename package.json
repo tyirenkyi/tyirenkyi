@@ -1,5 +1,5 @@
 {
-  "name": "guilyx-profile-page",
+  "name": "tyirenkyi-profile-page",
   "version": "1.1.1",
   "description": "Github profile README.md",
   "main": "index.js",
@@ -11,12 +11,12 @@
     "type": "git",
     "url": "git+https://github.com/guilyx/guilyx.git"
   },
-  "author": "Andrew Young",
+  "author": "Timothy Odei Yirenkyi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/guilyx/guilyx/issues"
+    "url": "https://github.com/tyirenkyi/tyirenkyi/issues"
   },
-  "homepage": "https://github.com/guilyx/guilyx#readme",
+  "homepage": "https://github.com/tyirenkyi/tyirenkyi#readme",
   "dependencies": {
     "@vercel/node": "^1.9.1",
     "axios": "^0.21.1",
