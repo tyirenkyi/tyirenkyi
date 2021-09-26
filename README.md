@@ -29,24 +29,24 @@ relocation_interests: ["Japan", "Singapore", "Germany", "South Korea", "UK"]
 ```
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=tyirenkyi&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 
 <p align="center">
-  <a href="https://guilyx.vercel.app/api/now-playing?open">
+  <a href="https://tyirenkyi.vercel.app/api/now-playing?open">
     <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-    <img src="https://guilyx.vercel.app/api/now-playing">
+    <img src="https://tyirenkyi.vercel.app/api/now-playing">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://guilyx.vercel.app/api/top-played">
+  <img src="https://tyirenkyi.vercel.app/api/top-played">
 </p>
  
 ```yaml
 section: spotify components info
-tutorial_path: guilyx/guilyx/how-to.md
+tutorial_path: tyirenkyi/tyirenkyi/how-to.md
 original_idea: natemoo-re
 improved_by: andyruwruw
 note: thanks to both of them!
