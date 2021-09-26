@@ -20,8 +20,8 @@ name: Timothy Odei Yirenkyi
 located_in: Kumasi, Ghana
 job: Frontend Developer (Freelance)
 
-technical_interests: ["Blockchains", "Frontend Development", "WEB 3", 
-                      "Mobile Development"]
+technical_interests: ["Blockchains", "Frontend Development", "WEB3", 
+                      "Mobile Development", "Machine learning"]
 currently_learning: ["Rust", "Solana Development"]
 hobbies: ["Anime", "Cinema", "Sci fi novels"]
 awards: ["First Prize in Natural Language & Text Analytics API Hackathon"]
