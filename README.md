@@ -24,9 +24,12 @@ technical_interests: ["Blockchains", "Frontend Development", "WEB 3",
                       "Mobile Development"]
 currently_learning: ["Rust", "Solana Development"]
 hobbies: ["Anime", "Cinema", "Sci fi novels"]
+awards: ["First Prize in Natural Language & Text Analytics API Hackathon"]
 
 relocation_interests: ["Japan", "Singapore", "Germany", "South Korea", "UK"]
 ```
+
+<a href="https://www.expert.ai/blog/the-story-behind-hackathon-winning-peer-reviewers-app">Link to hackathon blog</a>
 
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=tyirenkyi&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
