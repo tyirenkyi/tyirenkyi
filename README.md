@@ -22,7 +22,7 @@ job: Frontend Developer (Freelance)
 
 technical_interests: ["Blockchains", "Frontend Development", "WEB 3", 
                       "Mobile Development"]
-currently_learning: ["Rust", "Solana Developmen"]
+currently_learning: ["Rust", "Solana Development"]
 hobbies: ["Anime", "Cinema", "Sci fi novels"]
 
 relocation_interests: ["Japan", "Singapore", "Germany", "South Korea", "UK"]
