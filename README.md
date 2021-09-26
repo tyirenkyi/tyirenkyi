@@ -4,38 +4,28 @@
 
 <p align="center">
 <br/>
-<a href="https://twitter.com/spida_rwin">
-  <img alt="guilyx | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
+<a href="https://twitter.com/darthapplejewce">
+  <img alt="tyirenkyi | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
 </a>
-<a href="https://www.linkedin.com/in/erwinlejeune-lkn">
-  <img alt="guilyx's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
-</a>
-<a href="https://www.facebook.com/erwin.lejeune">
-  <img alt="guilyx's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
-</a>
-<a href="https://www.instagram.com/spid_erwin">
-  <img alt="guilyx's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
-</a>
-<a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
-  <img alt="guilyx's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
+<a href="https://www.linkedin.com/in/timothy-yirenkyi-b45b9b137/">
+  <img alt="tyirenkyi's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+</a
+<a href="https://open.spotify.com/user/6jyx0hj1911n2xd4rm3vwm8j9?si=f0e62187bc474bdf">
+  <img alt="tyirenkyi's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
 </a>
 </p>
 
 ```yaml
-name: Erwin Lejeune
-located_in: Odense, Denmark
-from: Nantes (France)
-education: ["Master's in Robotics", "Master's in Embedded Systems", "Bachelor's in Electronics"]
-job: Robotics Software Engineer
-company: Coalescent Mobile Robotics
+name: Timothy Odei Yirenkyi
+located_in: Kumasi, Ghana
+job: Frontend Developer (Freelance)
 
-technical_interests: ["Planning", "Path Following", "Obstacle Avoidance", 
-                      "Object Detection", "Sensor Fusion", "SLAM"]
-currently_learning: ["Behaviour Trees", "PetriNets"]
-hobbies: ["Basketball", "Cinema", "Rapsberry Pi Dumb Projects",
-          "Making Alexa do/say dumb stuff", "Anything dumb and useless"]
+technical_interests: ["Blockchains", "Frontend Development", "WEB 3", 
+                      "Mobile Development"]
+currently_learning: ["Rust", "Solana Developmen"]
+hobbies: ["Anime", "Cinema", "Sci fi novels"]
 
-relocation_interests: ["Japan", "Singapore", "California", "NYC", "Taiwan"]
+relocation_interests: ["Japan", "Singapore", "Germany", "South Korea", "UK"]
 ```
 
 <p align="center">
