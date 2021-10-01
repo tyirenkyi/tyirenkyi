@@ -59,11 +59,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/tyirenkyi/angiovio-server/pull/20) in [tyirenkyi/angiovio-server](https://github.com/tyirenkyi/angiovio-server)
-2. 💪 Opened PR [#20](https://github.com/tyirenkyi/angiovio-server/pull/20) in [tyirenkyi/angiovio-server](https://github.com/tyirenkyi/angiovio-server)
-3. 🎉 Merged PR [#19](https://github.com/tyirenkyi/angiovio-server/pull/19) in [tyirenkyi/angiovio-server](https://github.com/tyirenkyi/angiovio-server)
-4. 💪 Opened PR [#19](https://github.com/tyirenkyi/angiovio-server/pull/19) in [tyirenkyi/angiovio-server](https://github.com/tyirenkyi/angiovio-server)
-5. 🎉 Merged PR [#18](https://github.com/tyirenkyi/angiovio-server/pull/18) in [tyirenkyi/angiovio-server](https://github.com/tyirenkyi/angiovio-server)
+1. 🎉 Merged PR [#12](https://github.com/tyirenkyi/project-owl/pull/12) in [tyirenkyi/project-owl](https://github.com/tyirenkyi/project-owl)
+2. 💪 Opened PR [#12](https://github.com/tyirenkyi/project-owl/pull/12) in [tyirenkyi/project-owl](https://github.com/tyirenkyi/project-owl)
+3. 🎉 Merged PR [#20](https://github.com/tyirenkyi/angiovio-server/pull/20) in [tyirenkyi/angiovio-server](https://github.com/tyirenkyi/angiovio-server)
+4. 💪 Opened PR [#20](https://github.com/tyirenkyi/angiovio-server/pull/20) in [tyirenkyi/angiovio-server](https://github.com/tyirenkyi/angiovio-server)
+5. 🎉 Merged PR [#19](https://github.com/tyirenkyi/angiovio-server/pull/19) in [tyirenkyi/angiovio-server](https://github.com/tyirenkyi/angiovio-server)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
