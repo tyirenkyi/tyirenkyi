@@ -22,7 +22,7 @@ job: Frontend Developer (Freelance)
 
 technical_interests: ["Blockchains", "Frontend Development", "WEB3", 
                       "Mobile Development", "Machine learning"]
-currently_learning: ["Rust", "Solana Development", "Liquid"]
+currently_learning: ["Rust", "Solana Development", "Liquid", "Alpine"]
 hobbies: ["Anime", "Cinema", "Sci fi novels"]
 awards: ["First Prize in Natural Language & Text Analytics API Hackathon"]
 
