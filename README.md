@@ -60,10 +60,10 @@ note: thanks to both of them!
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#82](https://github.com/cryptoplease/cryptoplease-dart/issues/82) in [cryptoplease/cryptoplease-dart](https://github.com/cryptoplease/cryptoplease-dart)
-2. 🗣 Commented on [#13955](https://github.com/solana-labs/solana/issues/13955) in [solana-labs/solana](https://github.com/solana-labs/solana)
-3. 🎉 Merged PR [#3](https://github.com/tyirenkyi/gif-portal-starter/pull/3) in [tyirenkyi/gif-portal-starter](https://github.com/tyirenkyi/gif-portal-starter)
-4. 💪 Opened PR [#3](https://github.com/tyirenkyi/gif-portal-starter/pull/3) in [tyirenkyi/gif-portal-starter](https://github.com/tyirenkyi/gif-portal-starter)
-5. 🎉 Merged PR [#2](https://github.com/tyirenkyi/gif-portal-starter/pull/2) in [tyirenkyi/gif-portal-starter](https://github.com/tyirenkyi/gif-portal-starter)
+2. 🗣 Commented on [#82](https://github.com/cryptoplease/cryptoplease-dart/issues/82) in [cryptoplease/cryptoplease-dart](https://github.com/cryptoplease/cryptoplease-dart)
+3. 🗣 Commented on [#13955](https://github.com/solana-labs/solana/issues/13955) in [solana-labs/solana](https://github.com/solana-labs/solana)
+4. 🎉 Merged PR [#3](https://github.com/tyirenkyi/gif-portal-starter/pull/3) in [tyirenkyi/gif-portal-starter](https://github.com/tyirenkyi/gif-portal-starter)
+5. 💪 Opened PR [#3](https://github.com/tyirenkyi/gif-portal-starter/pull/3) in [tyirenkyi/gif-portal-starter](https://github.com/tyirenkyi/gif-portal-starter)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
