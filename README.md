@@ -59,11 +59,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#59](https://github.com/vercel/next-learn/pull/59) in [vercel/next-learn](https://github.com/vercel/next-learn)
-2. 💪 Opened PR [#541](https://github.com/buildspace/buildspace-projects/pull/541) in [buildspace/buildspace-projects](https://github.com/buildspace/buildspace-projects)
-3. ❌ Closed PR [#540](https://github.com/buildspace/buildspace-projects/pull/540) in [buildspace/buildspace-projects](https://github.com/buildspace/buildspace-projects)
-4. 💪 Opened PR [#540](https://github.com/buildspace/buildspace-projects/pull/540) in [buildspace/buildspace-projects](https://github.com/buildspace/buildspace-projects)
-5. 🗣 Commented on [#82](https://github.com/cryptoplease/cryptoplease-dart/issues/82) in [cryptoplease/cryptoplease-dart](https://github.com/cryptoplease/cryptoplease-dart)
+1. ❌ Closed PR [#10](https://github.com/buildspace/gif-portal-starter/pull/10) in [buildspace/gif-portal-starter](https://github.com/buildspace/gif-portal-starter)
+2. 💪 Opened PR [#59](https://github.com/vercel/next-learn/pull/59) in [vercel/next-learn](https://github.com/vercel/next-learn)
+3. 💪 Opened PR [#541](https://github.com/buildspace/buildspace-projects/pull/541) in [buildspace/buildspace-projects](https://github.com/buildspace/buildspace-projects)
+4. ❌ Closed PR [#540](https://github.com/buildspace/buildspace-projects/pull/540) in [buildspace/buildspace-projects](https://github.com/buildspace/buildspace-projects)
+5. 💪 Opened PR [#540](https://github.com/buildspace/buildspace-projects/pull/540) in [buildspace/buildspace-projects](https://github.com/buildspace/buildspace-projects)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
