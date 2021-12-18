@@ -5,7 +5,7 @@
 <p align="center">
 <br/>
 <a href="https://twitter.com/darthapplejewce">
-  <img alt="tyirenkyi | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
+  <img alt="tyirenkyi | Twitter" width="35px" src="https://drive.google.com/file/d/1S5uFDldRcrkoVMfQXsWIS2_u6vXLJhJS/view?usp=sharing" />
 </a>
 <a href="https://www.linkedin.com/in/timothy-yirenkyi-b45b9b137/">
   <img alt="tyirenkyi's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
