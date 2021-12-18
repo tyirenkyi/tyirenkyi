@@ -5,10 +5,10 @@
 <p align="center">
 <br/>
 <a href="https://twitter.com/darthapplejewce">
-  <img alt="tyirenkyi | Twitter" width="35px" src="https://drive.google.com/file/d/1S5uFDldRcrkoVMfQXsWIS2_u6vXLJhJS/view?usp=sharing" />
+  <img alt="tyirenkyi | Twitter" width="35px" src="c" />
 </a>
 <a href="https://www.linkedin.com/in/timothy-yirenkyi-b45b9b137/">
-  <img alt="tyirenkyi's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+  <img alt="tyirenkyi's LinkdeIN" width="35px" src="https://drive.google.com/uc?export=view&id=1S5uFDldRcrkoVMfQXsWIS2_u6vXLJhJS" />
 </a
 <a href="https://open.spotify.com/user/6jyx0hj1911n2xd4rm3vwm8j9?si=f0e62187bc474bdf">
   <img alt="tyirenkyi's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
