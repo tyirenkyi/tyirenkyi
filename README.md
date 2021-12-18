@@ -4,7 +4,7 @@
 
 <p align="center">
 <br/>
-<a href="https://twitter.com/darthapplejewce">
+<a href="https://twitter.com/toyirenkyi">
   <img alt="tyirenkyi | Twitter" width="35px" src="https://drive.google.com/uc?export=view&id=1CwWfGcNmTNzSI-XmaLk0gvbHVaD5xkwx" />
 </a>
 <a href="https://www.linkedin.com/in/timothy-yirenkyi-b45b9b137/">
