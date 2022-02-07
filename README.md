@@ -59,11 +59,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/0xPratik/EpicSol/pull/17) in [0xPratik/EpicSol](https://github.com/0xPratik/EpicSol)
-2. 💪 Opened PR [#17](https://github.com/0xPratik/EpicSol/pull/17) in [0xPratik/EpicSol](https://github.com/0xPratik/EpicSol)
-3. ❌ Closed PR [#15](https://github.com/0xPratik/EpicSol/pull/15) in [0xPratik/EpicSol](https://github.com/0xPratik/EpicSol)
-4. 💪 Opened PR [#120](https://github.com/metaplex-foundation/docs/pull/120) in [metaplex-foundation/docs](https://github.com/metaplex-foundation/docs)
-5. 🗣 Commented on [#201](https://github.com/solana-labs/wallet-adapter/issues/201) in [solana-labs/wallet-adapter](https://github.com/solana-labs/wallet-adapter)
+1. 🎉 Merged PR [#18](https://github.com/0xPratik/EpicSol/pull/18) in [0xPratik/EpicSol](https://github.com/0xPratik/EpicSol)
+2. 💪 Opened PR [#18](https://github.com/0xPratik/EpicSol/pull/18) in [0xPratik/EpicSol](https://github.com/0xPratik/EpicSol)
+3. 🎉 Merged PR [#17](https://github.com/0xPratik/EpicSol/pull/17) in [0xPratik/EpicSol](https://github.com/0xPratik/EpicSol)
+4. 💪 Opened PR [#17](https://github.com/0xPratik/EpicSol/pull/17) in [0xPratik/EpicSol](https://github.com/0xPratik/EpicSol)
+5. ❌ Closed PR [#15](https://github.com/0xPratik/EpicSol/pull/15) in [0xPratik/EpicSol](https://github.com/0xPratik/EpicSol)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
