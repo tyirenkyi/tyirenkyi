@@ -60,10 +60,10 @@ note: thanks to both of them!
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#315](https://github.com/solana-labs/wallet-adapter/issues/315) in [solana-labs/wallet-adapter](https://github.com/solana-labs/wallet-adapter)
-2. 🎉 Merged PR [#18](https://github.com/0xPratik/EpicSol/pull/18) in [0xPratik/EpicSol](https://github.com/0xPratik/EpicSol)
-3. 💪 Opened PR [#18](https://github.com/0xPratik/EpicSol/pull/18) in [0xPratik/EpicSol](https://github.com/0xPratik/EpicSol)
-4. 🎉 Merged PR [#17](https://github.com/0xPratik/EpicSol/pull/17) in [0xPratik/EpicSol](https://github.com/0xPratik/EpicSol)
-5. 💪 Opened PR [#17](https://github.com/0xPratik/EpicSol/pull/17) in [0xPratik/EpicSol](https://github.com/0xPratik/EpicSol)
+2. 💪 Opened PR [#120](https://github.com/metaplex-foundation/docs/pull/120) in [metaplex-foundation/docs](https://github.com/metaplex-foundation/docs)
+3. 🗣 Commented on [#201](https://github.com/solana-labs/wallet-adapter/issues/201) in [solana-labs/wallet-adapter](https://github.com/solana-labs/wallet-adapter)
+4. 🎉 Merged PR [#1](https://github.com/tyirenkyi/waveportal-starter-project/pull/1) in [tyirenkyi/waveportal-starter-project](https://github.com/tyirenkyi/waveportal-starter-project)
+5. 💪 Opened PR [#1](https://github.com/tyirenkyi/waveportal-starter-project/pull/1) in [tyirenkyi/waveportal-starter-project](https://github.com/tyirenkyi/waveportal-starter-project)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
