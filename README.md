@@ -59,11 +59,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/MLH-Fellowship/wallet-adapter/pull/1) in [MLH-Fellowship/wallet-adapter](https://github.com/MLH-Fellowship/wallet-adapter)
-2. 🎉 Merged PR [#1](https://github.com/tyirenkyi/wallet-adapter/pull/1) in [tyirenkyi/wallet-adapter](https://github.com/tyirenkyi/wallet-adapter)
-3. 💪 Opened PR [#1](https://github.com/tyirenkyi/wallet-adapter/pull/1) in [tyirenkyi/wallet-adapter](https://github.com/tyirenkyi/wallet-adapter)
-4. 🗣 Commented on [#315](https://github.com/solana-labs/wallet-adapter/issues/315) in [solana-labs/wallet-adapter](https://github.com/solana-labs/wallet-adapter)
-5. 💪 Opened PR [#120](https://github.com/metaplex-foundation/docs/pull/120) in [metaplex-foundation/docs](https://github.com/metaplex-foundation/docs)
+1. 💪 Opened PR [#328](https://github.com/solana-labs/wallet-adapter/pull/328) in [solana-labs/wallet-adapter](https://github.com/solana-labs/wallet-adapter)
+2. 💪 Opened PR [#1](https://github.com/MLH-Fellowship/wallet-adapter/pull/1) in [MLH-Fellowship/wallet-adapter](https://github.com/MLH-Fellowship/wallet-adapter)
+3. 🎉 Merged PR [#1](https://github.com/tyirenkyi/wallet-adapter/pull/1) in [tyirenkyi/wallet-adapter](https://github.com/tyirenkyi/wallet-adapter)
+4. 💪 Opened PR [#1](https://github.com/tyirenkyi/wallet-adapter/pull/1) in [tyirenkyi/wallet-adapter](https://github.com/tyirenkyi/wallet-adapter)
+5. 🗣 Commented on [#315](https://github.com/solana-labs/wallet-adapter/issues/315) in [solana-labs/wallet-adapter](https://github.com/solana-labs/wallet-adapter)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
