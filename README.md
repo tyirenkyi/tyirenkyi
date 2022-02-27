@@ -56,11 +56,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#328](https://github.com/solana-labs/wallet-adapter/issues/328) in [solana-labs/wallet-adapter](https://github.com/solana-labs/wallet-adapter)
-2. 🎉 Merged PR [#2](https://github.com/MLH-Fellowship/wallet-adapter/pull/2) in [MLH-Fellowship/wallet-adapter](https://github.com/MLH-Fellowship/wallet-adapter)
-3. 💪 Opened PR [#2](https://github.com/MLH-Fellowship/wallet-adapter/pull/2) in [MLH-Fellowship/wallet-adapter](https://github.com/MLH-Fellowship/wallet-adapter)
-4. 💪 Opened PR [#328](https://github.com/solana-labs/wallet-adapter/pull/328) in [solana-labs/wallet-adapter](https://github.com/solana-labs/wallet-adapter)
-5. 💪 Opened PR [#1](https://github.com/MLH-Fellowship/wallet-adapter/pull/1) in [MLH-Fellowship/wallet-adapter](https://github.com/MLH-Fellowship/wallet-adapter)
+1. 🎉 Merged PR [#3](https://github.com/MLH-Fellowship/wallet-adapter/pull/3) in [MLH-Fellowship/wallet-adapter](https://github.com/MLH-Fellowship/wallet-adapter)
+2. 🗣 Commented on [#328](https://github.com/solana-labs/wallet-adapter/issues/328) in [solana-labs/wallet-adapter](https://github.com/solana-labs/wallet-adapter)
+3. 🎉 Merged PR [#2](https://github.com/MLH-Fellowship/wallet-adapter/pull/2) in [MLH-Fellowship/wallet-adapter](https://github.com/MLH-Fellowship/wallet-adapter)
+4. 💪 Opened PR [#2](https://github.com/MLH-Fellowship/wallet-adapter/pull/2) in [MLH-Fellowship/wallet-adapter](https://github.com/MLH-Fellowship/wallet-adapter)
+5. 💪 Opened PR [#328](https://github.com/solana-labs/wallet-adapter/pull/328) in [solana-labs/wallet-adapter](https://github.com/solana-labs/wallet-adapter)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
