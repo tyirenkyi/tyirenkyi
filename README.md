@@ -57,9 +57,9 @@ note: thanks to both of them!
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#342](https://github.com/solana-labs/wallet-adapter/issues/342) in [solana-labs/wallet-adapter](https://github.com/solana-labs/wallet-adapter)
-2. 💪 Opened PR [#342](https://github.com/solana-labs/wallet-adapter/pull/342) in [solana-labs/wallet-adapter](https://github.com/solana-labs/wallet-adapter)
-3. 🗣 Commented on [#328](https://github.com/solana-labs/wallet-adapter/issues/328) in [solana-labs/wallet-adapter](https://github.com/solana-labs/wallet-adapter)
-4. 🗣 Commented on [#289](https://github.com/solana-labs/wallet-adapter/issues/289) in [solana-labs/wallet-adapter](https://github.com/solana-labs/wallet-adapter)
+2. 🗣 Commented on [#342](https://github.com/solana-labs/wallet-adapter/issues/342) in [solana-labs/wallet-adapter](https://github.com/solana-labs/wallet-adapter)
+3. 💪 Opened PR [#342](https://github.com/solana-labs/wallet-adapter/pull/342) in [solana-labs/wallet-adapter](https://github.com/solana-labs/wallet-adapter)
+4. 🗣 Commented on [#328](https://github.com/solana-labs/wallet-adapter/issues/328) in [solana-labs/wallet-adapter](https://github.com/solana-labs/wallet-adapter)
 5. 🗣 Commented on [#289](https://github.com/solana-labs/wallet-adapter/issues/289) in [solana-labs/wallet-adapter](https://github.com/solana-labs/wallet-adapter)
 <!--END_SECTION:activity-->
 
