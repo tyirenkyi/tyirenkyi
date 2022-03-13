@@ -56,11 +56,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/tyirenkyi/new_action_app/issues/1) in [tyirenkyi/new_action_app](https://github.com/tyirenkyi/new_action_app)
-2. 🎉 Merged PR [#1](https://github.com/tyirenkyi/pharm/pull/1) in [tyirenkyi/pharm](https://github.com/tyirenkyi/pharm)
-3. 💪 Opened PR [#1](https://github.com/tyirenkyi/pharm/pull/1) in [tyirenkyi/pharm](https://github.com/tyirenkyi/pharm)
-4. 🎉 Merged PR [#1](https://github.com/tyirenkyi/pluto-finance-ui/pull/1) in [tyirenkyi/pluto-finance-ui](https://github.com/tyirenkyi/pluto-finance-ui)
-5. 💪 Opened PR [#1](https://github.com/tyirenkyi/pluto-finance-ui/pull/1) in [tyirenkyi/pluto-finance-ui](https://github.com/tyirenkyi/pluto-finance-ui)
+1. 🎉 Merged PR [#1](https://github.com/tyirenkyi/pharm/pull/1) in [tyirenkyi/pharm](https://github.com/tyirenkyi/pharm)
+2. 💪 Opened PR [#1](https://github.com/tyirenkyi/pharm/pull/1) in [tyirenkyi/pharm](https://github.com/tyirenkyi/pharm)
+3. 🎉 Merged PR [#1](https://github.com/tyirenkyi/pluto-finance-ui/pull/1) in [tyirenkyi/pluto-finance-ui](https://github.com/tyirenkyi/pluto-finance-ui)
+4. 💪 Opened PR [#1](https://github.com/tyirenkyi/pluto-finance-ui/pull/1) in [tyirenkyi/pluto-finance-ui](https://github.com/tyirenkyi/pluto-finance-ui)
+5. 🗣 Commented on [#342](https://github.com/solana-labs/wallet-adapter/issues/342) in [solana-labs/wallet-adapter](https://github.com/solana-labs/wallet-adapter)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
