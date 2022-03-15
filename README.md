@@ -56,11 +56,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#59262](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/59262) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-2. 🎉 Merged PR [#1](https://github.com/tyirenkyi/pharm/pull/1) in [tyirenkyi/pharm](https://github.com/tyirenkyi/pharm)
-3. 💪 Opened PR [#1](https://github.com/tyirenkyi/pharm/pull/1) in [tyirenkyi/pharm](https://github.com/tyirenkyi/pharm)
-4. 🎉 Merged PR [#1](https://github.com/tyirenkyi/pluto-finance-ui/pull/1) in [tyirenkyi/pluto-finance-ui](https://github.com/tyirenkyi/pluto-finance-ui)
-5. 💪 Opened PR [#1](https://github.com/tyirenkyi/pluto-finance-ui/pull/1) in [tyirenkyi/pluto-finance-ui](https://github.com/tyirenkyi/pluto-finance-ui)
+1. ❗️ Opened issue [#106](https://github.com/solana-labs/solana-pay/issues/106) in [solana-labs/solana-pay](https://github.com/solana-labs/solana-pay)
+2. 💪 Opened PR [#59262](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/59262) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+3. 🎉 Merged PR [#1](https://github.com/tyirenkyi/pharm/pull/1) in [tyirenkyi/pharm](https://github.com/tyirenkyi/pharm)
+4. 💪 Opened PR [#1](https://github.com/tyirenkyi/pharm/pull/1) in [tyirenkyi/pharm](https://github.com/tyirenkyi/pharm)
+5. 🎉 Merged PR [#1](https://github.com/tyirenkyi/pluto-finance-ui/pull/1) in [tyirenkyi/pluto-finance-ui](https://github.com/tyirenkyi/pluto-finance-ui)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
