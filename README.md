@@ -56,11 +56,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#59262](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/59262) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-2. ❗️ Opened issue [#106](https://github.com/solana-labs/solana-pay/issues/106) in [solana-labs/solana-pay](https://github.com/solana-labs/solana-pay)
-3. 💪 Opened PR [#59262](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/59262) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-4. 🎉 Merged PR [#1](https://github.com/tyirenkyi/pharm/pull/1) in [tyirenkyi/pharm](https://github.com/tyirenkyi/pharm)
-5. 💪 Opened PR [#1](https://github.com/tyirenkyi/pharm/pull/1) in [tyirenkyi/pharm](https://github.com/tyirenkyi/pharm)
+1. 💪 Opened PR [#108](https://github.com/solana-labs/solana-pay/pull/108) in [solana-labs/solana-pay](https://github.com/solana-labs/solana-pay)
+2. 🗣 Commented on [#59262](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/59262) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+3. ❗️ Opened issue [#106](https://github.com/solana-labs/solana-pay/issues/106) in [solana-labs/solana-pay](https://github.com/solana-labs/solana-pay)
+4. 💪 Opened PR [#59262](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/59262) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+5. 🎉 Merged PR [#1](https://github.com/tyirenkyi/pharm/pull/1) in [tyirenkyi/pharm](https://github.com/tyirenkyi/pharm)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
