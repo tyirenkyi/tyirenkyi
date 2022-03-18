@@ -15,11 +15,11 @@
 ```yaml
 name: Timothy Odei Yirenkyi
 located_in: Kumasi, Ghana
-job: Frontend Developer (Freelance)
+job: Software Developer (Freelance)
 
 technical_interests: ["Blockchains", "Frontend Development", "WEB3", 
                       "Mobile Development", "Machine learning"]
-currently_learning: ["Rust", "Solana Development"]
+currently_learning: ["Rust", "Solana Development", "German"]
 hobbies: ["Anime", "Cinema", "Sci fi novels"]
 awards: ["First Prize in Natural Language & Text Analytics API Hackathon"]
 
