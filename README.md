@@ -57,10 +57,10 @@ note: thanks to both of them!
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2956](https://github.com/solana-labs/solana-program-library/issues/2956) in [solana-labs/solana-program-library](https://github.com/solana-labs/solana-program-library)
-2. 🎉 Merged PR [#2](https://github.com/tyirenkyi/pharm/pull/2) in [tyirenkyi/pharm](https://github.com/tyirenkyi/pharm)
-3. 💪 Opened PR [#2](https://github.com/tyirenkyi/pharm/pull/2) in [tyirenkyi/pharm](https://github.com/tyirenkyi/pharm)
-4. 🗣 Commented on [#2956](https://github.com/solana-labs/solana-program-library/issues/2956) in [solana-labs/solana-program-library](https://github.com/solana-labs/solana-program-library)
-5. 💪 Opened PR [#299](https://github.com/solana-developers/solana-cookbook/pull/299) in [solana-developers/solana-cookbook](https://github.com/solana-developers/solana-cookbook)
+2. 🗣 Commented on [#2956](https://github.com/solana-labs/solana-program-library/issues/2956) in [solana-labs/solana-program-library](https://github.com/solana-labs/solana-program-library)
+3. 🎉 Merged PR [#2](https://github.com/tyirenkyi/pharm/pull/2) in [tyirenkyi/pharm](https://github.com/tyirenkyi/pharm)
+4. 💪 Opened PR [#2](https://github.com/tyirenkyi/pharm/pull/2) in [tyirenkyi/pharm](https://github.com/tyirenkyi/pharm)
+5. 🗣 Commented on [#2956](https://github.com/solana-labs/solana-program-library/issues/2956) in [solana-labs/solana-program-library](https://github.com/solana-labs/solana-program-library)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
