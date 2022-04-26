@@ -56,10 +56,10 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2960](https://github.com/solana-labs/solana-program-library/issues/2960) in [solana-labs/solana-program-library](https://github.com/solana-labs/solana-program-library)
-2. 🗣 Commented on [#2960](https://github.com/solana-labs/solana-program-library/issues/2960) in [solana-labs/solana-program-library](https://github.com/solana-labs/solana-program-library)
-3. 🗣 Commented on [#2956](https://github.com/solana-labs/solana-program-library/issues/2956) in [solana-labs/solana-program-library](https://github.com/solana-labs/solana-program-library)
-4. 🗣 Commented on [#2956](https://github.com/solana-labs/solana-program-library/issues/2956) in [solana-labs/solana-program-library](https://github.com/solana-labs/solana-program-library)
+1. ❌ Closed PR [#24687](https://github.com/solana-labs/solana/pull/24687) in [solana-labs/solana](https://github.com/solana-labs/solana)
+2. 💪 Opened PR [#24687](https://github.com/solana-labs/solana/pull/24687) in [solana-labs/solana](https://github.com/solana-labs/solana)
+3. 🗣 Commented on [#2960](https://github.com/solana-labs/solana-program-library/issues/2960) in [solana-labs/solana-program-library](https://github.com/solana-labs/solana-program-library)
+4. 🗣 Commented on [#2960](https://github.com/solana-labs/solana-program-library/issues/2960) in [solana-labs/solana-program-library](https://github.com/solana-labs/solana-program-library)
 5. 🗣 Commented on [#2956](https://github.com/solana-labs/solana-program-library/issues/2956) in [solana-labs/solana-program-library](https://github.com/solana-labs/solana-program-library)
 <!--END_SECTION:activity-->
 
