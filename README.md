@@ -56,11 +56,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#24687](https://github.com/solana-labs/solana/pull/24687) in [solana-labs/solana](https://github.com/solana-labs/solana)
-2. 💪 Opened PR [#24687](https://github.com/solana-labs/solana/pull/24687) in [solana-labs/solana](https://github.com/solana-labs/solana)
-3. 🗣 Commented on [#2960](https://github.com/solana-labs/solana-program-library/issues/2960) in [solana-labs/solana-program-library](https://github.com/solana-labs/solana-program-library)
-4. 🗣 Commented on [#2960](https://github.com/solana-labs/solana-program-library/issues/2960) in [solana-labs/solana-program-library](https://github.com/solana-labs/solana-program-library)
-5. 🗣 Commented on [#2956](https://github.com/solana-labs/solana-program-library/issues/2956) in [solana-labs/solana-program-library](https://github.com/solana-labs/solana-program-library)
+1. 🎉 Merged PR [#2](https://github.com/tyirenkyi/DefinitelyTyped/pull/2) in [tyirenkyi/DefinitelyTyped](https://github.com/tyirenkyi/DefinitelyTyped)
+2. 💪 Opened PR [#2](https://github.com/tyirenkyi/DefinitelyTyped/pull/2) in [tyirenkyi/DefinitelyTyped](https://github.com/tyirenkyi/DefinitelyTyped)
+3. 💪 Opened PR [#60070](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/60070) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+4. 🎉 Merged PR [#1](https://github.com/tyirenkyi/DefinitelyTyped/pull/1) in [tyirenkyi/DefinitelyTyped](https://github.com/tyirenkyi/DefinitelyTyped)
+5. 💪 Opened PR [#1](https://github.com/tyirenkyi/DefinitelyTyped/pull/1) in [tyirenkyi/DefinitelyTyped](https://github.com/tyirenkyi/DefinitelyTyped)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
