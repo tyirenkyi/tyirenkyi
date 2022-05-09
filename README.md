@@ -56,11 +56,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/tyirenkyi/DefinitelyTyped/pull/2) in [tyirenkyi/DefinitelyTyped](https://github.com/tyirenkyi/DefinitelyTyped)
-2. 💪 Opened PR [#2](https://github.com/tyirenkyi/DefinitelyTyped/pull/2) in [tyirenkyi/DefinitelyTyped](https://github.com/tyirenkyi/DefinitelyTyped)
-3. 💪 Opened PR [#60070](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/60070) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-4. 🎉 Merged PR [#1](https://github.com/tyirenkyi/DefinitelyTyped/pull/1) in [tyirenkyi/DefinitelyTyped](https://github.com/tyirenkyi/DefinitelyTyped)
-5. 💪 Opened PR [#1](https://github.com/tyirenkyi/DefinitelyTyped/pull/1) in [tyirenkyi/DefinitelyTyped](https://github.com/tyirenkyi/DefinitelyTyped)
+1. 🎉 Merged PR [#1](https://github.com/tyirenkyi/mizumi-project-web/pull/1) in [tyirenkyi/mizumi-project-web](https://github.com/tyirenkyi/mizumi-project-web)
+2. 💪 Opened PR [#1](https://github.com/tyirenkyi/mizumi-project-web/pull/1) in [tyirenkyi/mizumi-project-web](https://github.com/tyirenkyi/mizumi-project-web)
+3. 🎉 Merged PR [#2](https://github.com/tyirenkyi/DefinitelyTyped/pull/2) in [tyirenkyi/DefinitelyTyped](https://github.com/tyirenkyi/DefinitelyTyped)
+4. 💪 Opened PR [#2](https://github.com/tyirenkyi/DefinitelyTyped/pull/2) in [tyirenkyi/DefinitelyTyped](https://github.com/tyirenkyi/DefinitelyTyped)
+5. 💪 Opened PR [#60070](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/60070) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
