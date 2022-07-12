@@ -15,7 +15,7 @@
 ```yaml
 name: Timothy Odei Yirenkyi
 located_in: Kumasi, Ghana
-job: Software Developer
+job: Software Developer at [NATION](https://nation.io)
 
 technical_interests: ["Blockchains", "Frontend Development", "WEB3", 
                       "Mobile Development", "Machine learning"]
