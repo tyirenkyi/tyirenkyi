@@ -19,9 +19,4 @@ technical_interests: ["Blockchains", "Frontend Development", "WEB3",
                       "Mobile Development", "Machine learning"]
 currently_learning: ["Rust", "Solana Development", "German"]
 hobbies: ["Anime", "Cinema", "Sci fi novels"]
-awards: ["First Prize in Natural Language & Text Analytics API Hackathon"]
-
 ```
-
-<a href="https://www.expert.ai/blog/the-story-behind-hackathon-winning-peer-reviewers-app">Link to hackathon blog</a>
-
