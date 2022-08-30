@@ -1,5 +1,3 @@
-[![Actions Status](https://github.com/tyirenkyi/tyirenkyi/workflows/wakatime-stats/badge.svg)](https://github.com/tyirenkyi/tyirenkyi/actions)
-[![Actions Status](https://github.com/tyirenkyi/tyirenkyi/workflows/update-gh-activity/badge.svg)](https://github.com/tyirenkyi/tyirenkyi/actions)
 ![](https://visitor-badge.glitch.me/badge?page_id=tyirenkyi.tyirenkyi)
 
 <p align="center">
