@@ -23,7 +23,6 @@ currently_learning: ["Rust", "Solana Development", "German"]
 hobbies: ["Anime", "Cinema", "Sci fi novels"]
 awards: ["First Prize in Natural Language & Text Analytics API Hackathon"]
 
-relocation_interests: ["Japan", "Singapore", "Germany", "South Korea", "UK"]
 ```
 
 <a href="https://www.expert.ai/blog/the-story-behind-hackathon-winning-peer-reviewers-app">Link to hackathon blog</a>
@@ -51,61 +50,4 @@ original_idea: natemoo-re
 improved_by: andyruwruw
 note: thanks to both of them!
 ```
-
-
-**:zap: Recent Activity:**
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/tyirenkyi/mizumi-project-program/pull/1) in [tyirenkyi/mizumi-project-program](https://github.com/tyirenkyi/mizumi-project-program)
-2. 💪 Opened PR [#1](https://github.com/tyirenkyi/mizumi-project-program/pull/1) in [tyirenkyi/mizumi-project-program](https://github.com/tyirenkyi/mizumi-project-program)
-3. 🎉 Merged PR [#1](https://github.com/tyirenkyi/mizumi-project-web/pull/1) in [tyirenkyi/mizumi-project-web](https://github.com/tyirenkyi/mizumi-project-web)
-4. 💪 Opened PR [#1](https://github.com/tyirenkyi/mizumi-project-web/pull/1) in [tyirenkyi/mizumi-project-web](https://github.com/tyirenkyi/mizumi-project-web)
-5. 🎉 Merged PR [#2](https://github.com/tyirenkyi/DefinitelyTyped/pull/2) in [tyirenkyi/DefinitelyTyped](https://github.com/tyirenkyi/DefinitelyTyped)
-<!--END_SECTION:activity-->
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C006%20hrs%2035%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    108 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.74% 
-🌆 Daytime    253 commits    █████████░░░░░░░░░░░░░░░░   36.88% 
-🌃 Evening    242 commits    ████████░░░░░░░░░░░░░░░░░   35.28% 
-🌙 Night      83 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.1%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       148 commits    █████░░░░░░░░░░░░░░░░░░░░   21.57% 
-Tuesday      90 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.12% 
-Wednesday    79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.52% 
-Thursday     120 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.49% 
-Friday       101 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.72% 
-Saturday     44 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.41% 
-Sunday       104 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.16%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Africa/Accra
-
-💬 Programming Languages: 
-TypeScript               16 hrs 2 mins       ███████████████████████░░   94.59% 
-Bash                     34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.42% 
-JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.22% 
-JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.64% 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14%
-
-```
-
-
- Last Updated on 30/08/2022 01:08:38 UTC
-<!--END_SECTION:waka-->
 
