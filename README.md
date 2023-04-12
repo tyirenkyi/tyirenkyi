@@ -13,7 +13,7 @@
 ```yaml
 name: Timothy Odei Yirenkyi
 located_in: Kumasi, Ghana
-job: Co-founder of <a href="https://mizumi.cc">Mizumi Inc.</a>
+job: Mizumi Inc. Co-founder
 
 technical_interests: ["Blockchains", "Frontend Development", "WEB3", 
                       "Mobile Development", "Machine learning"]
