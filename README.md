@@ -18,5 +18,5 @@ job: Mizumi Inc. Co-founder
 technical_interests: ["Blockchains", "Frontend Development", "WEB3", 
                       "Mobile Development", "Machine learning"]
 currently_learning: ["Rust", "Solana Development", "German"]
-hobbies: ["Anime", "Cinema", "Sci fi novels"]
+other interests: ["Anime", "Cinema", "Sci fi novels"]
 ```
