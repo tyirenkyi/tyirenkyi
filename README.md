@@ -15,8 +15,8 @@ name: Timothy Odei Yirenkyi
 located_in: Kumasi, Ghana
 job: Mizumi Inc. Co-founder
 
-technical_interests: ["Blockchains", "Frontend Development", "WEB3", 
-                      "Mobile Development", "Machine learning"]
+technical_interests: ["Blockchains", "Frontend Development",
+                      "Mobile Development", "Compilers", "Concurrency"]
 currently_learning: ["Rust", "Solana Development", "German"]
 other interests: ["Anime", "Cinema", "Sci fi novels"]
 ```
